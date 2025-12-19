@@ -1,6 +1,6 @@
 
-export const GROUP_NAME = 'Groupe VIP Exclusif Cameroun';
-export const GROUP_DESCRIPTION = "Rejoignez un groupe exclusif pour des rencontres et des discussions privées. L'accès est réservé aux membres approuvés.";
+export const GROUP_NAME = 'Groupe VIP de Fome gratuit Cameroun';
+export const GROUP_DESCRIPTION = "Rejoignez un groupe exclusif pour des rencontres et des FOME🍆🍑 a domiciles.il sufit de paye leur deplacement. L'accès est réservé aux membres approuvés.";
 export const PRICE_XAF = 1500;
 export const CURRENCY = 'XAF';
 

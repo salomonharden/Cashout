@@ -1,0 +1,5 @@
+{
+  "name": "Plateforme de Paiement pour Groupe WhatsApp",
+  "description": "Une application web pour simuler la collecte de paiements pour l'accès à un groupe WhatsApp, spécifiquement conçue pour les méthodes de paiement mobile du Cameroun comme MTN et Orange.",
+  "requestFramePermissions": []
+}

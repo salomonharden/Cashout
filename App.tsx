@@ -27,7 +27,7 @@ const App: React.FC = () => {
                         </p>
                         <div className="bg-green-50 border-l-4 border-green-500 text-green-800 p-4 rounded-lg mb-8 text-left">
                             <p className="font-semibold">Accès après approbation.</p>
-                            <p>Un groupe actif et des membres de qualité vous attendent.</p>
+                            <p>Un groupe actif et des fille de qualité vous attendent.</p>
                         </div>
                         
                         <div className="my-8">

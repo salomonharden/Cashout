@@ -21,13 +21,13 @@ const App: React.FC = () => {
                 <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center py-12">
                     <div className="max-w-2xl mx-auto bg-white p-8 rounded-2xl shadow-lg transform transition-all hover:scale-[1.01]">
                         <img src="https://i.postimg.cc/0yp9Z17N/images.jpg" alt="Groupe" className="w-full h-48 object-cover rounded-xl mb-6"/>
-                        <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-4">Rejoignez notre Groupe exclusive</h2>
+                        <h2 className="text-3xl md:text-4xl font-extrabold text-slate-900 mb-4">Rejoignez notre Groupe exclusif</h2>
                         <p className="text-slate-600 mb-6 text-lg">
                             {GROUP_DESCRIPTION}
                         </p>
                         <div className="bg-green-50 border-l-4 border-green-500 text-green-800 p-4 rounded-lg mb-8 text-left">
                             <p className="font-semibold">Accès après approbation.</p>
-                            <p> un group active et des fille de qualité vous attendent.</p>
+                            <p>Un groupe actif et des membres de qualité vous attendent.</p>
                         </div>
                         
                         <div className="my-8">

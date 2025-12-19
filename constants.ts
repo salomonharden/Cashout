@@ -1,6 +1,6 @@
 
-export const GROUP_NAME = 'Baise a domicile gratuit Cameroun';
-export const GROUP_DESCRIPTION = "Rejoignez un group de fille de 18-25 ans prete a baise chez vous vous avez selement a paye leur transport";
+export const GROUP_NAME = 'Groupe VIP Exclusif Cameroun';
+export const GROUP_DESCRIPTION = "Rejoignez un groupe exclusif pour des rencontres et des discussions privées. L'accès est réservé aux membres approuvés.";
 export const PRICE_XAF = 1500;
 export const CURRENCY = 'XAF';
 
